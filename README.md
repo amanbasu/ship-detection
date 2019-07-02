@@ -11,7 +11,7 @@ Information about the files and folders
 
 The dataset was trained on the YOLOv3 model and darknet framework. 
 
-### Get darknet
+### Getting darknet
 Follow these commands for setting up the darknet framework
 
 ```bash

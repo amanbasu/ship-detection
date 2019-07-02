@@ -9,8 +9,6 @@ Information about the files and folders
 - [dataset](https://github.com/amanbasu/ship-detection/tree/master/dataset): holds the full labeled dataset for training the model.
 - [ground_truth](https://github.com/amanbasu/ship-detection/tree/master/ground_truth): contains the images with their ground truth bounding boxes.
 
-## Training
-
 The dataset was trained on the YOLOv3 model and darknet framework. 
 
 ### Get darknet

@@ -65,7 +65,7 @@ The final step is to set up the `.cfg` [file](https://github.com/amanbasu/ship-d
 ./darknet detector train cfg/ship.data cfg/yolov3-ship.cfg darknet19_448.conv.23
 ```
 
-### 3.4 Test
+### Testing
 
 ```bash
 ./darknet detector test cfg/ship.data cfg/yolov3.cfg backup/backup_file.weights test_file.jpg

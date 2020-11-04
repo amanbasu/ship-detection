@@ -1,6 +1,6 @@
 # Building a complete Ship detection algorithm using YOLOv3 and Planet satellite images from scratch
 
-The repository contains the code for [this]() article, and is about building a custom object detection algorithm from scratch for satellite imagery.
+The repository contains the code for [this](https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072) article, and is about building a custom object detection algorithm from scratch for satellite imagery.
 
 Information about the files and folders
 - [download_planet_image.py](https://github.com/amanbasu/ship-detection/blob/master/download_planet_image.py): for downloading the Planet image tiles. Requires the planet api-key and AOI geometry (in geojson).

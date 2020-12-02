@@ -1,5 +1,7 @@
 # Building a complete Ship detection algorithm using YOLOv3 and Planet satellite images from scratch
 
+<img src="https://img.shields.io/github/stars/amanbasu/ship-detection?color=0088ff"/> <img src="https://img.shields.io/github/forks/amanbasu/ship-detection?color=ff8800"/> <img src="https://img.shields.io/github/issues-closed/amanbasu/ship-detection?color=00ff00"/>
+
 The repository contains the code for [this](https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072) article, and is about building a custom object detection algorithm from scratch for satellite imagery.
 
 Information about the files and folders
